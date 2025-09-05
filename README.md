@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1FF9iLzOqA5wT9g1x0NL02XLoE0jWeXs3/view?usp=sharing" alt="Nirvana Club Logo" width="180" style="border-radius:50%;"/>
+  <img src="https://drive.google.com/uc?export=view&id=1FF9iLzOqA5wT9g1x0NL02XLoE0jWeXs3" alt="Nirvana Club Logo" width="180" style="border-radius:50%;"/>
   <h1>🌟 Nirvana Club 🌟</h1>
   <p><i><b>A Journey to Nirvana Through Ancient Wisdom and Modern Science</b></i></p>
   <br>
@@ -43,7 +43,7 @@ This is our intellectual hub, where we delve into texts that shape our understan
 
 #### 🧠 Contemporary Thought:
 * **Modern Challenges:** Discuss works like *AI and Power* (Rajiv Malhotra), *Sapiens*, *Homo Deus*, and *21 Lessons for 21st Century* (Yuval Noah Harari).
-* **Productivity & Focus:** Gain insights from *Indistrictible* (Nir Eyal) and *Deep Work* (Cal Newport).
+* **Productivity & Focus:** Gain insights from *Indistractible* (Nir Eyal) and *Deep Work* (Cal Newport).
 
 #### 🔬 Scientific Exploration:
 * **Research Papers:** Engage with the latest findings in neuroscience, psychology, and consciousness studies, exploring how they intersect with ancient meditative practices.
