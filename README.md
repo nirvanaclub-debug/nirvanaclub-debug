@@ -1,32 +1,22 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1506126613408-4e0596027091?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Nirvana Club Banner"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1FF9iLzOqA5wT9g1x0NL02XLoE0jWeXs3" alt="Nirvana Club Logo" width="150" style="border-radius:50%; border: 2px solid #555;"/>
-  <h1>🌟 Nirvana Club, IIIT Sri City 🌟</h1>
-  <p><b><i>A Journey to Nirvana Through Ancient Wisdom and Modern Science</i></b></p>
-  
-  <a href="https://www.instagram.com/nirvana_iiits/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:nirvana.club@iiits.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://drive.google.com/uc?export=view&id=1FF9iLzOqA5wT9g1x0NL02XLoE0jWeXs3" alt="Nirvana Club Logo" width="180" style="border-radius:50%;"/>
+  <h1>🌟 Nirvana Club 🌟</h1>
+  <p><i><b>A Journey to Nirvana Through Ancient Wisdom and Modern Science</b></i></p>
+  <br>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Active Status"/>
+  <img src="https://img.shields.io/badge/Community-Open%20to%20All-blueviolet?style=for-the-badge&logo=github" alt="Open Community"/>
 </div>
 
 ---
 
-> ### *"The mind is everything. What you think, you become."* - Buddha
-
 ## ✨ Our Vision & Objectives
 
-At Nirvana Club, we foster a community dedicated to holistic growth. Our core philosophy is built upon four pillars:
+At Nirvana Club, we believe in a holistic approach to life. Our core objectives guide us in fostering a community dedicated to growth and well-being:
 
-| Pillar                   | Description                                                                                                     | Icon |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------- | :--: |
-| **Stress-Free Living** | Embrace meditation, yoga, and Adhyatmika to cultivate inner peace and navigate life's challenges with serenity. | 🧘‍♀️  |
-| **Holistic Success** | Achieve balance, focus, and clarity to excel in both worldly pursuits and your journey of self-discovery.      | 🚀   |
-| **Deeper Inquiry** | Explore profound philosophical questions and seek a deeper understanding of existence and consciousness.         | 🌌   |
-| **Bridging Worlds** | Investigate Indian Knowledge Systems and their fascinating connections with cutting-edge modern science.         | 📚   |
+* 🧘‍♀️ **Stress-Free Living:** Embrace meditation, yoga, and Adhyatmika (spiritual science) to cultivate inner peace and navigate life's challenges with serenity.
+* 🚀 **Material & Spiritual Success:** Achieve balance, focus, and clarity to excel in both your worldly pursuits and your journey of self-discovery.
+* 🌌 **Beyond the Mundane:** Explore profound philosophical questions and seek a deeper understanding of existence.
+* 📚 **Bridging Knowledge Systems:** Investigate traditional Indian Knowledge Systems (IKS) and their fascinating connections with cutting-edge modern science.
 
 ---
 
@@ -34,94 +24,69 @@ At Nirvana Club, we foster a community dedicated to holistic growth. Our core ph
 
 We offer a vibrant calendar of events designed to enrich your mind, body, and spirit.
 
-<details>
-<summary>🧘‍♂️ <b>Yoga & Meditation Sessions (Yog)</b></summary>
-<br>
-  <ul>
-    <li><b>Frequency:</b> Bi-weekly or Monthly</li>
-    <li><b>Experience:</b> Dive into deep relaxation through guided yoga, pranayama, and meditation.</li>
-    <li><b>Special Sessions:</b> Unwind with our unique music listening and meditative sound bath sessions.</li>
-  </ul>
-</details>
+### 🧘‍♂️ Yoga & Meditation Sessions (Yog)
+* **🗓️ Frequency:** Bi-weekly or Monthly
+* **🕊️ Experience:** Dive into deep relaxation and stress relief through guided yoga postures, breathing exercises (pranayama), and meditation techniques.
+* **🎶 Special:** Unwind with our unique music listening and meditative sound bath sessions.
 
-<details>
-<summary>🗣️ <b>Lecture Sessions by Esteemed Guests (Upadesh)</b></summary>
-<br>
-  <ul>
-    <li><b>Frequency:</b> Bi-monthly</li>
-    <li><b>Insights:</b> Be inspired by talks from contemporary spiritual leaders, scholars, and visionaries.</li>
-  </ul>
-</details>
+### 🗣️ Lecture Sessions by Esteemed Guests (Upadesh)
+* **🗓️ Frequency:** Bi-monthly
+* **💡 Insights:** Be inspired by thought-provoking talks from contemporary spiritual leaders, renowned scholars, and visionaries. Engage in interactive Q&A sessions.
 
-<details>
-<summary>📖 <b>Reading & Discussion Sessions (Shastrartha)</b></summary>
-<br>
-  This is our intellectual hub where we delve into texts that shape our understanding. Our discussions cover:
-  <h4>📜 Ancient Wisdom</h4>
-  <ul>
-    <li><b>Epics:</b> <em>Ramayana</em> and <em>Mahabharata</em></li>
-    <li><b>Puranas:</b> <em>Srimad Bhagavatam</em></li>
-    <li><b>Eternal Teachings:</b> <em>Bhagavad Gita</em></li>
-  </ul>
-  <h4>🧠 Contemporary Thought</h4>
-  <ul>
-    <li>Works by Rajiv Malhotra, Yuval Noah Harari, Nir Eyal, and Cal Newport.</li>
-  </ul>
-  <h4>🔬 Scientific Exploration</h4>
-  <ul>
-    <li>Research papers on neuroscience, psychology, and consciousness studies.</li>
-  </ul>
-</details>
+### 📖 Reading & Discussion Sessions (Shastrartha)
+This is our intellectual hub, where we delve into texts that shape our understanding of the world.
+
+#### 📜 Ancient Wisdom:
+* **Epics:** Journey through the timeless narratives and ethical dilemmas of *Ramayana* and *Mahabharata*.
+* **Puranas:** Explore the rich mythological and philosophical insights from texts like the *Srimad Bhagavatam*.
+* **Eternal Teachings:** Unpack the profound wisdom of the *Bhagavad Gita* and other classical spiritual texts.
+
+#### 🧠 Contemporary Thought:
+* **Modern Challenges:** Discuss works like *AI and Power* (Rajiv Malhotra), *Sapiens*, *Homo Deus*, and *21 Lessons for 21st Century* (Yuval Noah Harari).
+* **Productivity & Focus:** Gain insights from *Indistractible* (Nir Eyal) and *Deep Work* (Cal Newport).
+
+#### 🔬 Scientific Exploration:
+* **Research Papers:** Engage with the latest findings in neuroscience, psychology, and consciousness studies, exploring how they intersect with ancient meditative practices.
 
 ---
 
-## 🤝 Our Collaborations & Inspirations
+## 💖 Our Inspirations
 
-We believe in the power of synergy and are inspired by a rich tradition of spiritual and cultural organizations.
-
-<details>
-<summary><b>Click to see our inspirations and potential collaborators</b></summary>
-<br>
-  <h4>💖 Our Inspirations</h4>
-  <p>We are humbly inspired by the profound work of clubs across prestigious institutions:</p>
-  <ul>
-      <li>IIT Bombay: <b>Yogastha</b></li>
-      <li>IIT Kanpur: <b>Vivekananda Samiti</b></li>
-      <li>IIT Madras: <b>Vande Mataram</b></li>
-      <li>BITS Pilani: <b>Sovesa</b></li>
-      <li>IIT Kanpur & IIT Patna: <b>Bhaktivedanta Club</b></li>
-  </ul>
-
-  <h4>🌐 National Organizations</h4>
-  <p>We eagerly anticipate collaborating with and hosting guests from:</p>
-  <ul>
-      <li>Infinity Foundation</li>
-      <li>Isha Foundation</li>
-      <li>Ramakrishna Mission</li>
-      <li>Art of Living Foundation</li>
-      <li>ISKCON</li>
-      <li>Patanjali Yog Peeth</li>
-  </ul>
-</details>
+We are humbly inspired by the profound work of spiritual and cultural clubs across prestigious institutions:
+* IIT Bombay: **Yogastha**
+* IIT Kanpur: **Vivekananda Samiti**
+* IIT Madras: **Vande Mataram**
+* BITS Pilani: **Sovesa**
+* IIT Kanpur & IIT Patna: **Bhaktivedanta Club**
 
 ---
 
-## 🧭 Our Guiding Principles
+## 🤝 Collaborative Ventures
 
-These are the core tenets that guide our activities and community.
+We thrive on collaboration and seek to build bridges with like-minded organizations and clubs to amplify our reach and impact.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Yoga-%234E9B3D.svg?style=for-the-badge" alt="Yoga"/>
-  <img src="https://img.shields.io/badge/Meditation-%234A90E2.svg?style=for-the-badge" alt="Meditation"/>
-  <img src="https://img.shields.io/badge/Shastrartha-%23F5A623.svg?style=for-the-badge" alt="Shastrartha"/>
-  <img src="https://img.shields.io/badge/Dharma-%239013FE.svg?style=for-the-badge" alt="Dharma"/>
-</p>
+### 🌐 With National Organizations:
+We eagerly anticipate inviting guest speakers and hosting workshops in collaboration with:
+* **Infinity Foundation**
+* **Isha Foundation**
+* **Ramakrishna Mission and Vedanta Society**
+* **Art of Living Foundation**
+* **ISKCON**
+* **Patanjali Yog Peeth**
+* *... and many more esteemed organizations!*
+
+### 🏫 Within Our College:
+* **Student Life Councils (SLCs):** Providing Adhyatmik support and insights for various traditional Pujas and festivals throughout the academic year.
+* **Technical Clubs:** Partnering to develop innovative apps, APIs, and websites that propagate the benefits of yoga, meditation, and the knowledge of Shastras.
+* **Cultural Clubs:** Celebrating the rich tapestry of Indian traditional music and dance, which are intrinsically linked with Adhyatmika, during festive occasions.
 
 ---
 
 <div align="center">
-  <h3>🌟 Join us on this transformative journey! 🌟</h3>
-  <p><i>Your path to inner harmony and holistic success begins here.</i></p>
-  
-  <img src="https://profile-counter.glitch.me/nirvana-iiits/count.svg" alt="Visitor Count"/>
+  <br>
+  <h3>🌟 Join us on a transformative journey! 🌟</h3>
+  <p><i>Your path to inner harmony and holistic success begins here. Connect with us!</i></p>
+  <br>
+  <a href="https://www.instagram.com/nirvana_iiits/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:nirvana.club@iiits.in" target="_blank"><img src="https://img.shields.io/badge/-Email%20Us-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
